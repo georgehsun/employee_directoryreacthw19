@@ -2,7 +2,7 @@
   "name": "employee_directoryreacthw19",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/georgehsun/employee_directoryreacthw19",
+  "homepage": "https://georgehsun.github.io/employee_directoryreacthw19/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
